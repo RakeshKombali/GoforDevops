@@ -1,0 +1,26 @@
+table.tableIh1 {
+    margin: 20px 0;
+}
+
+.tableIh1 {
+    border: 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    display: table;
+    
+}
+
+.tableIh1 tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+
+.tableIh1 tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: aqua;
+}
+
+.tableIh1 {
+    box-sizing: border-box;
+}
